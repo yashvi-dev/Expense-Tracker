@@ -1,5 +1,3 @@
-# React + Vite
-```markdown
 # Expense Tracker
 
 An easy-to-use expense tracker built with React. This application allows you to manage your income and expenses effectively by adding, deleting, and viewing transactions. It helps you track your financial activities and manage your budget.
@@ -76,22 +74,6 @@ The app displays:
 ### Delete a Transaction
 To delete a transaction:
 - Hover over the transaction, and click the delete button to remove it.
-
----
-
-## Screenshots
-
-**Add Transaction Form:**
-
-![Add Transaction Form](https://via.placeholder.com/500x300.png)
-
-**Transaction List:**
-
-![Transaction List](https://via.placeholder.com/500x300.png)
-
-**Dashboard (Income, Expenses, Balance):**
-
-![Dashboard](https://via.placeholder.com/500x300.png)
 
 ---
 
