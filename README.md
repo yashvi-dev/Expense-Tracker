@@ -111,12 +111,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - A special thanks to the open-source community for their amazing tools and resources.
 - Vercel for making easy deployment possible.
 
----
 
-## Contact
-
-For any questions, feel free to reach out at:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [@your-username](https://github.com/your-username)
 ```
 
